@@ -1,1 +1,19 @@
+<div class="header">
+  <h2>Geia's Sweets</h2>
+  <ul>
+    <li><a href="default.asp">Home</a></li>
+    <li><a href="news.asp">Order</a></li>
+    <li><a href="contact.asp">Contact</a></li>
+    <li><a href="about.asp">About</a></li>
+  </ul>
+</div>
 
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+       <h2>60 Shades of Purple</h2>
+ 
+
+<div class="footer">
+  <h2>Erica Griffin-Foster</h2>
+</div>
